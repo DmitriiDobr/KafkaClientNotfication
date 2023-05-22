@@ -1,4 +1,4 @@
-module kafkaNotification
+module github.com/DmitriiDobr/KafkaClientNotfication
 
 go 1.19
 
