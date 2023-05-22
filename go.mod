@@ -9,4 +9,4 @@ require (
 	github.com/pierrec/lz4/v4 v4.1.15 // indirect
 )
 
-replace kafkaNotification => github.com/DmitriiDobr/KafkaClientNotfication
+replace github.com/DmitriiDobr/KafkaClientNotfication => kafkaNotification
